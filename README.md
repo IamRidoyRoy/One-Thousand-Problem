@@ -1,7 +1,7 @@
 # One-Thousand-Problem-
 Target to solve one thousand Problem. 
 
-Problem - 01 
+>>Problem - 01 
 **Sum all array element (JavaScript)
 // Sum all numbers in an array 
 
