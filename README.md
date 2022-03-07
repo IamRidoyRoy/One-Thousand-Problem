@@ -5,6 +5,7 @@ Target to solve one thousand Problem.
 **Sum all array element (JavaScript)
 // Sum all numbers in an array 
 
+`
 const numbers= [11,22,33,44,55,66,77,88,99]
 var sum = 0
 for(var i = 0; i<numbers.length; i++){
@@ -23,3 +24,5 @@ function sumNumber(number){
 
 obj = sumNumber([10,20,30])
 console.log('Sum by function:',obj)
+
+`
